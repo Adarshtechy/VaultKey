@@ -32,7 +32,7 @@ It helps users generate strong, customizable passwords instantly with a clean an
 ## 📂 Project Structure
 
 ```text
-VaultKey/
+vaultkey-password-generator/
 │
 ├── index.html
 ├── style.css
